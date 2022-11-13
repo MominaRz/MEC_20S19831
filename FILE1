@@ -1,0 +1,7 @@
+a=0
+while True
+{
+  dishname= input('enter dish name:')
+  price= input('enter dish price:')
+  a=a+price
+}
